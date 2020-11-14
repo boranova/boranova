@@ -1,3 +1,8 @@
+### About me
+
+I am programming with `python`, working on machine learning and deep learning models.
+
+
 ### Connect with me:
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/boranova)
