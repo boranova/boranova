@@ -1,4 +1,4 @@
-![Clouds](cloud.jpeg)
+![Clouds](clouds.jpg)
 
 
 ### About me
