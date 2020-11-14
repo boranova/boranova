@@ -1,3 +1,6 @@
+![Clouds](cloud.jpeg)
+
+
 ### About me
 
 I am programming with `python`, working on machine learning and deep learning models.
