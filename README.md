@@ -1,4 +1,4 @@
-![Clouds](clouds.jpg)
+
 
 
 ### About me
