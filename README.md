@@ -8,6 +8,7 @@ I am programming with `python`, working on machine learning and deep learning mo
 ### Certifications
 
 ![AWS Badge](aws-certified-cloud-practitioner.png)
+&nbsp;
 ![Azure Badge](microsoft-certified-azure-ai-fundamentals.png)
 
 
