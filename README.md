@@ -7,8 +7,8 @@ I am programming with `python`, working on machine learning and deep learning mo
 
 ### Certifications
 
-- AWS: [Certified Cloud Practitioner] (https://www.youracclaim.com/badges/44edc4ce-a9cf-4146-9e09-edd18792092b/)
-- Microsoft [Certified: Azure AI Fundamentals] (https://www.youracclaim.com/badges/faad1707-7f1d-47b4-9b23-ed9744868711/)
+- AWS: [Certified Cloud Practitioner](https://www.youracclaim.com/badges/44edc4ce-a9cf-4146-9e09-edd18792092b/)
+- Microsoft [Certified: Azure AI Fundamentals](https://www.youracclaim.com/badges/faad1707-7f1d-47b4-9b23-ed9744868711/)
 
 
 ### Connect with me:
