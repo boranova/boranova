@@ -1,10 +1,6 @@
 
 
 
-### About me
-
-I am programming with `python`, working on machine learning and deep learning models.
-
 ### Certifications
 
 ![AWS Badge](aws-certified-cloud-practitioner.png)
