@@ -7,10 +7,12 @@
 &nbsp;
 ![Azure Badge](microsoft-certified-azure-ai-fundamentals.png)
 
-
 [Certified Cloud Practitioner](https://www.youracclaim.com/badges/44edc4ce-a9cf-4146-9e09-edd18792092b/)
 &nbsp;
+
 [Azure AI Fundamentals](https://www.youracclaim.com/badges/faad1707-7f1d-47b4-9b23-ed9744868711/)
+
+[Azure DS Associate](https://www.credly.com/badges/29e08f0f-f8d2-4e01-82a3-9d78a51c970f/)
 
 ### Connect with me:
 
